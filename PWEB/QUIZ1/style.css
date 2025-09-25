@@ -1,0 +1,72 @@
+
+body {
+    background-color: rgb(62,62,66);
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top:100px;
+}
+h3{
+    color: rgb(255, 255, 255);
+}
+p {
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+}
+a {
+    color: rgb(255, 255, 255);
+}
+ul.topnav {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    background-color: #333333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+    ul.topnav li a {
+    display: block;
+    color: #f1f1f1;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+    ul.topnav li a:hover {
+    background-color: #dddddd;
+    color: black;
+}
+
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  border: 1px solid #000000;
+}
+
+.kotak {
+    display: flex;
+    align-items: flex-start;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    margin:0 auto;
+    max-width: 1000px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.kotak:hover {
+    background-color: rgba(47, 48, 35, 0.2);
+}
+
+.turis {
+    display: flex;
+    flex-direction: column;
+}
