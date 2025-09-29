@@ -1,4 +1,3 @@
-import java.util.Objects;
 
 class MataKuliah {
     private String kode;
@@ -35,19 +34,6 @@ class MataKuliah {
                 this.nama,
                 this.dosenPengampu.getNama(),
                 this.sks);
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        MataKuliah that = (MataKuliah) o;
-        return Objects.equals(kode, that.kode);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(kode);
     }
 }
 
