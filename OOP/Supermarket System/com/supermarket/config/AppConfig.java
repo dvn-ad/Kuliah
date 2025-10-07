@@ -5,7 +5,7 @@ package com.supermarket.config;
  * Menggunakan 'static final' untuk nilai yang tidak akan pernah berubah.
  */
 public class AppConfig {
-    public static final String STORE_NAME = "Gemini Fresh Mart";
+    public static final String STORE_NAME = "PBO Fresh Mart";
     public static final double TAX_RATE = 0.11; // PPN 11%
     private static int transactionCount = 0; // Variabel static untuk menghitung transaksi
 
