@@ -7,7 +7,7 @@ public class Sepeda extends Kendaraan {
     }
 
     
-    @Override
+    
     public String getInfo() {
         return String.format("Sepeda: %s %s | Tahun: %d | Jenis: %s", 
             getMerk(), getModel(), getTahunProduksi(), jenisSepeda);

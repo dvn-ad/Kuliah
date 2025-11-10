@@ -9,7 +9,7 @@ public class Mobil extends Kendaraan {
     }
 
     
-    @Override
+    
     public String getInfo() {
         return String.format("Mobil: %s %s | Tahun: %d | Roda: %d | Plat: %s", 
             getMerk(), getModel(), getTahunProduksi(), jumlahRoda, plat);

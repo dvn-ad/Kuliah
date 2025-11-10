@@ -9,7 +9,7 @@ public class Motor extends Kendaraan {
     }
 
     
-    @Override
+    
     public String getInfo() {
         return String.format("Motor: %s %s | Tahun: %d | Roda: %d | Plat: %s", 
             getMerk(), getModel(), getTahunProduksi(), jumlahRoda, plat);
