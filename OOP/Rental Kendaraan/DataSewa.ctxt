@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DataSewa
+comment1.params=penyewa\ kendaraan
+comment1.target=DataSewa(Penyewa,\ Kendaraan)
+comment2.params=
+comment2.target=Penyewa\ getPenyewa()
+comment3.params=
+comment3.target=Kendaraan\ getKendaraan()
+comment4.params=
+comment4.target=java.lang.String\ getDetailSewa()
+numComments=5
