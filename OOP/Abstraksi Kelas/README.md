@@ -63,7 +63,7 @@ LivingBeing (abstract)
 
 ## Screenshot
 
-![image.png](attachment:1df9ff48-5b21-4ba0-ba49-4eb238efc4cd:image.png)
+![image.png](https://www.notion.so/image/attachment%3A1df9ff48-5b21-4ba0-ba49-4eb238efc4cd%3Aimage.png?table=block&id=2aeb08d2-28e2-806b-89e4-d95ef38f25ed&spaceId=df288384-cefa-4600-bf26-62945660eae2&width=1420&userId=&cache=v2)
 
 # Soal 2: Foxes and Rabbit
 
@@ -131,4 +131,4 @@ Proyek ini adalah contoh bagus dari konsep Object-Oriented Programming (OOP) sep
 
 ## Screenshot
 
-![image.png](attachment:357080e4-c080-4bb2-b933-cf3e58e0770e:image.png)
+![image.png](https://www.notion.so/image/attachment%3A357080e4-c080-4bb2-b933-cf3e58e0770e%3Aimage.png?table=block&id=2aeb08d2-28e2-808a-8d18-c8d9bc011868&spaceId=df288384-cefa-4600-bf26-62945660eae2&width=1420&userId=&cache=v2)
