@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fox
+comment1.params=field\ location
+comment1.target=Fox(Field,\ Location)
+comment2.params=newAnimals
+comment2.target=void\ act(java.util.List)
+comment3.params=
+comment3.target=Location\ findFood()
+comment3.text=\r\n\ Look\ for\ adjacent\ Rabbit.\ If\ found,\ kill\ rabbit\ and\ return\ its\ location.\r\n\ Otherwise\ return\ null.\r\n
+numComments=4
